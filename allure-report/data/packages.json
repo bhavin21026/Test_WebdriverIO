@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Report builder test cases",
+    "children" : [ {
+      "name" : "Verify create new report link os working or not",
+      "uid" : "879dd4d35e04770f",
+      "parentUid" : "1ff01f878cbe3bae9454a68094946d9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625135468620,
+        "stop" : 1625135532378,
+        "duration" : 63758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.124" ]
+    } ],
+    "uid" : "1ff01f878cbe3bae9454a68094946d9f"
+  } ]
+}

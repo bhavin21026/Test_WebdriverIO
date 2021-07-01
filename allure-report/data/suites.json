@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Report builder test cases",
+    "children" : [ {
+      "name" : "Verify create new report link os working or not",
+      "uid" : "879dd4d35e04770f",
+      "parentUid" : "612618bf64fe77129ecb7ae73d353b73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625135468620,
+        "stop" : 1625135532378,
+        "duration" : 63758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.124" ]
+    } ],
+    "uid" : "612618bf64fe77129ecb7ae73d353b73"
+  } ]
+}

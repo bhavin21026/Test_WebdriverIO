@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class='lastoption ng-star-inserted']//span[@class='icon-svg-wrap']//*[local-name()='svg']"
+}

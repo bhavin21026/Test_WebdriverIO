@@ -1,0 +1,11 @@
+[ {
+  "uid" : "879dd4d35e04770f",
+  "name" : "Verify create new report link os working or not",
+  "time" : {
+    "start" : 1625135468620,
+    "stop" : 1625135532378,
+    "duration" : 63758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

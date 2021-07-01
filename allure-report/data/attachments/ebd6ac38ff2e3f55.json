@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='sidepanel-wraper scroll-custom']"
+}

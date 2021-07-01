@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify create new report link os working or not",
+    "uid" : "879dd4d35e04770f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625135468620,
+      "stop" : 1625135532378,
+      "duration" : 63758
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  } ]
+}

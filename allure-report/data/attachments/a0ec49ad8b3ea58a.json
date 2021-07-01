@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[contains(@class, 'btn btn--group w-tab') and (text()=' Day ')]"
+}
