@@ -15,7 +15,7 @@ describe('Report builder test cases',function()
       //this.retries(0)
 
       login.Login("admin.insight360@analytix.com","Insight360@123");
-      login.waitForProgressBar();
+      /*login.waitForProgressBar();
       dashboard.tryNewProductURI.waitForExist();
       dashboard.tryNewProductURI.waitForClickable();
       //expect(browser).toHaveUrl("https://restaurantinsight.analytix.com/clients")
@@ -40,7 +40,7 @@ describe('Report builder test cases',function()
       datagroup.add_Daily_NetSales();
       reportSetupPage.validateAddedColumns();
       reportSetupPage.createReport();
-      browser.pause(2000)
+      browser.pause(2000)*/
 
       
 

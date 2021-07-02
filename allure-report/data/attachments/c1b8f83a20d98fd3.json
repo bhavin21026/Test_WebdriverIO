@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='drag-item ng-star-inserted']//div[@class='model-label']"
+}

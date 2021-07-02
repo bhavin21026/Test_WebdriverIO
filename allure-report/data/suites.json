@@ -5,16 +5,15 @@
     "name" : "Report builder test cases",
     "children" : [ {
       "name" : "Verify create new report link os working or not",
-      "uid" : "879dd4d35e04770f",
+      "uid" : "9d36e0c1861e4c4a",
       "parentUid" : "612618bf64fe77129ecb7ae73d353b73",
       "status" : "passed",
       "time" : {
-        "start" : 1625135468620,
-        "stop" : 1625135532378,
-        "duration" : 63758
+        "start" : 1625226905640,
+        "stop" : 1625226911546,
+        "duration" : 5906
       },
-      "flaky" : false,
-      "newFailed" : false,
+      "flaky" : true,
       "parameters" : [ "chrome-91.0.4472.124" ]
     } ],
     "uid" : "612618bf64fe77129ecb7ae73d353b73"

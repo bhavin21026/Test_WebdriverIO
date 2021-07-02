@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//span[text()='Net Sales'])[1]"
+}

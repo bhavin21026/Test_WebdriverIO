@@ -1,2 +1,2 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Jul 01 16:01:08 IST 2021","Thu Jul 01 16:02:12 IST 2021","63758","","Report builder test cases","","Report builder test cases","Verify create new report link os working or not","Verify create new report link os working or not",""
+"Status","Name","Duration in ms","Description"
+"passed","Report builder test cases.Verify create new report link os working or not","5906",""

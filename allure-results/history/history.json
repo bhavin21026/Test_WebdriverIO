@@ -1,0 +1,31 @@
+{
+  "dad97641c22bdf4dccfcd788171bba7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2ba9c4fdca5af2e8",
+      "reportUrl" : "http://localhost:8080/job/TestDemo1/16/allure/#testresult/2ba9c4fdca5af2e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625226852849,
+        "stop" : 1625226859152,
+        "duration" : 6303
+      }
+    }, {
+      "uid" : "2eec8f22d5fdbd61",
+      "reportUrl" : "http://localhost:8080/job/TestDemo1/10/allure/#testresult/2eec8f22d5fdbd61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625225531702,
+        "stop" : 1625225537791,
+        "duration" : 6089
+      }
+    } ]
+  }
+}
